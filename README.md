@@ -650,6 +650,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for working with graphical user interface applications.*
 
 * [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+* [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 * [Eel](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
 * [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 * [Flexx](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
@@ -664,7 +665,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
-* [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 
 ## GraphQL
 
@@ -747,12 +747,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [nude.py](https://github.com/hhatto/nude.py) - Nudity detection.
 * [pagan](https://github.com/daboth/pagan) - Retro identicon (Avatar) generation based on input string and hash.
 * [pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
-* [python-barcode](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 * [pygram](https://github.com/ajkumar25/pygram) - Instagram-like image filters.
 * [PyMatting](http://github.com/pymatting/pymatting) - A library for alpha matting.
+* [python-barcode](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
-* [pywal](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 * [pyvips](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+* [pywal](https://github.com/dylanaraps/pywal) - A tool that generates color schemes from images.
 * [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 * [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
 * [thumbor](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
@@ -1090,8 +1090,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Static site generator is a software that takes some text + templates as input and produces HTML files on the output.*
 
 * [lektor](https://github.com/lektor/lektor) - An easy to use static CMS and blog engine.
-* [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 * [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator (< 130 lines).
+* [mkdocs](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 * [nikola](https://github.com/getnikola/nikola) - A static website and blog generator.
 * [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax.
 
@@ -1341,4 +1341,6 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 - - -
 
 If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+
+
 
